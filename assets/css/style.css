@@ -75,6 +75,10 @@
     margin-top: 34px;
 }
 
+.cursor-pointer {
+    cursor: pointer;
+}
+
 .col-12 {
     width: 100%;
     padding-left: 12px;
